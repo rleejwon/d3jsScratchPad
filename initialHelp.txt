@@ -1,0 +1,6 @@
+echo "# d3jsScratchPad" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rleejwon/d3jsScratchPad.git
+git push -u origin master
